@@ -1,0 +1,39 @@
+.bottom-page{
+    margin-top: 12rem;
+}
+
+.bottom-page h1{
+    color:black;
+}
+.bottom-page p{
+    color: black;
+}
+
+.bottom-page .card-text{
+    position: relative;
+    z-index: 2;
+    color: white;
+    opacity: 1;
+    transform: translateY(200px);
+}
+
+.swiper{
+    height: fit-content;
+}
+
+.slide-container{
+    margin: 0 30px;
+    overflow: hidden;
+}
+
+.bottom-page .card{
+    width: 100%;
+}
+
+.card .image-box {
+    height: 200px;
+}
+
+.card .image-box {
+    height: 200px;
+}

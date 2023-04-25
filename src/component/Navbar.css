@@ -1,0 +1,28 @@
+.navbar{
+    height: 100%;
+    min-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+.nav-logo{
+    color: white;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 60px;
+}
+
+.search-input{
+    border: none !important;
+}

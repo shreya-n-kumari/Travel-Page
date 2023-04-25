@@ -1,0 +1,46 @@
+.container{
+    color: white;
+}
+
+.btn{
+    background-color: #6c757d;
+    color: white;
+    width: 35%;
+}
+.btn:hover{
+    background-color: #6c757d;
+}
+
+.front-card{
+    margin-top: 10rem;
+}
+
+.card{
+    transition: 0.5s ease-in-out;
+    height: 100%;
+}
+.card p{
+    font-size: x-small;
+}
+.card:hover{
+    transform: translateY(20px);
+}
+.card-body{
+    height: 100%;
+}
+.card img{
+    width: 105%;
+    height: 180%;
+    object-fit: revert;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.card-text{
+    position: relative;
+    z-index: 2;
+    color: white;
+    opacity: 1;
+    transform: translateY(90px);
+    font-size: 15px;
+}
