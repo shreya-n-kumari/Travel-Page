@@ -57,7 +57,7 @@ export const Frontpage = () => {
                   </p>
                 </div>
 
-                <div class="card shadow ms-3">
+                {/* <div class="card shadow ms-3">
                   <img src={baloon} class="card-img-top" alt="..." />
                   <div className="card-body">
                     <h1 class="card-text">COLOMBO</h1>
@@ -65,13 +65,13 @@ export const Frontpage = () => {
                       Some quick example text to build on the card title and
                       make up the bulk of the card's content.
                     </p>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    // </div>
   );
 };
